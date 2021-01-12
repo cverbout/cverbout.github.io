@@ -1,8 +1,6 @@
 # Chase Verbout
-
-cverbout@gmail.com
-
-![Code](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1652&q=80)
+[Email](cverbout@gmail.com)
+![Coding Laptop](https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1652&q=80)
 # Summary
 
 I am a Senior at the University of Washington eager to begin my professional career. I am looking for the opportunity to grow professionally and to immerse myself in a diverse new community I am a person who commits completely to new endeavors and is both adaptable and creative. I also believe myself to be a very positive individual who takes instructions well and who is equally adept working in a team setting, as well as independently.
