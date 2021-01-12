@@ -1,15 +1,20 @@
 # Chase Verbout
 
 cverbout@gmail.com
+
 ***
+
 # Summary
+
 ***
 I am a Senior at the University of Washington eager to begin my professional career. I am looking for the opportunity to grow professionally and to immerse myself in a diverse new community I am a person who commits completely to new endeavors and is both adaptable and creative. I also believe myself to be a very positive individual who takes instructions well and who is equally adept working in a team setting, as well as independently.
 
 I will be graduating in June 2021 with a degree in Geography with a Data Science Option. Within the geography department, my courses include a strong emphasis in Geographic Information Systems. This chosen area of study has given me the opportunity to utilize various technical skills and gain proficiency working with data analysis, querying, and visualization. I have also completed several programming courses at the university, acquiring additional knowledge in R, JavaScript, SQL, and Python programming.
 
 # Relevent Skills & Coursework
+
 ***
+
 ## ArcGIS & SQL
 - **Geography GIS course – GEOG 360 – GIS and Mapping**
   - Weekly projects within ArcGIS and ArcGIS Desktop.
@@ -40,7 +45,9 @@ I will be graduating in June 2021 with a degree in Geography with a Data Science
   - Weekly Python assignments in preparation to assist on projects for AccessMap/OpenSidewalks, an open-source project that utilizes OpenStreetMap and emphasizes accessibility in creating optimized routes for pedestrians.
 
 # Work Experience
+
 ***
+
 ### The University of Washington Club (Seattle, Washington)
 *A private, non-profit, dining and social club*
 
