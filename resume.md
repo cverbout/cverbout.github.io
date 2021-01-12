@@ -2,18 +2,13 @@
 
 cverbout@gmail.com
 
-***
-
 # Summary
 
-***
 I am a Senior at the University of Washington eager to begin my professional career. I am looking for the opportunity to grow professionally and to immerse myself in a diverse new community I am a person who commits completely to new endeavors and is both adaptable and creative. I also believe myself to be a very positive individual who takes instructions well and who is equally adept working in a team setting, as well as independently.
 
 I will be graduating in June 2021 with a degree in Geography with a Data Science Option. Within the geography department, my courses include a strong emphasis in Geographic Information Systems. This chosen area of study has given me the opportunity to utilize various technical skills and gain proficiency working with data analysis, querying, and visualization. I have also completed several programming courses at the university, acquiring additional knowledge in R, JavaScript, SQL, and Python programming.
 
 # Relevent Skills & Coursework
-
-***
 
 ## ArcGIS & SQL
 - **Geography GIS course – GEOG 360 – GIS and Mapping**
@@ -46,8 +41,6 @@ I will be graduating in June 2021 with a degree in Geography with a Data Science
 
 # Work Experience
 
-***
-
 ### The University of Washington Club (Seattle, Washington)
 *A private, non-profit, dining and social club*
 
@@ -55,7 +48,7 @@ I will be graduating in June 2021 with a degree in Geography with a Data Science
 - Partnered with staff members from diverse backgrounds in a collaborative effort to establish optimal methods of kitchen operations. Assist cooks as needed with certain procedures and techniques regarding food preparation and service.
 - Responsible for properly cleaning all dishes, pots and pans while operating the dishwashing machine safely and effectively.
 
-## Fazzolari Custom Homes & Renovations (Vancouver, Washington)
+### Fazzolari Custom Homes & Renovations (Vancouver, Washington)
 *Commercial project and home design* - [Homepage](https://fazzhomes.com/)
 
 **Laborer** (June 2019 – September 2019)
