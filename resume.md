@@ -1,7 +1,7 @@
 # Chase Verbout
 
 cverbout@gmail.com
-
+![Earth](https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1652&q=80)
 # Summary
 
 I am a Senior at the University of Washington eager to begin my professional career. I am looking for the opportunity to grow professionally and to immerse myself in a diverse new community I am a person who commits completely to new endeavors and is both adaptable and creative. I also believe myself to be a very positive individual who takes instructions well and who is equally adept working in a team setting, as well as independently.
@@ -42,7 +42,7 @@ I will be graduating in June 2021 with a degree in Geography with a Data Science
 # Work Experience
 
 ### The University of Washington Club (Seattle, Washington)
-*A private, non-profit, dining and social club*
+*A private, non-profit, dining and social club* - [Homepage](https://sites.uw.edu/uwclub/)
 
 **Steward** (October 2019 – March 2020)
 - Partnered with staff members from diverse backgrounds in a collaborative effort to establish optimal methods of kitchen operations. Assist cooks as needed with certain procedures and techniques regarding food preparation and service.
@@ -54,3 +54,5 @@ I will be graduating in June 2021 with a degree in Geography with a Data Science
 **Laborer** (June 2019 – September 2019)
 - Assisted on-site construction manager with daily activities as needed.
 - Assisted in several projects including fence-post installation, counter-top replacement, floor replacement and rock-bed installation.
+
+> "We don't get to choose how we start in this life. Real greatness is what you do with the hand you're dealt."
