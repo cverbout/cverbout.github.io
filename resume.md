@@ -1,11 +1,10 @@
 # Chase Verbout
 <cverbout@gmail.com>
 
-<div style=text-align:center>
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1652&q=80" alt="Coding Laptop" width="400">
-</div>
+<div style=text-align:center><img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1652&q=80" alt="Coding Laptop" width="700"></div>
 
 > "We don't get to choose how we start in this life. Real greatness is what you do with the hand you're dealt."
+
 # Summary
 
 I am a Senior at the University of Washington eager to begin my professional career. I am looking for the opportunity to grow professionally and to immerse myself in a diverse new community I am a person who commits completely to new endeavors and is both adaptable and creative. I also believe myself to be a very positive individual who takes instructions well and who is equally adept working in a team setting, as well as independently.
