@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15d77d55.css",
+    "main.js": "/static/js/main.5270f538.js",
+    "static/media/france.JPG": "/static/media/france.9d3e62b7db0dd09e4362.JPG",
+    "static/media/icebar.jpg": "/static/media/icebar.3f2476f2389a64b00c87.jpg",
+    "static/media/portal.jpg": "/static/media/portal.a500a1ae8a93d795ce88.jpg",
+    "static/media/blazers.jpg": "/static/media/blazers.7dc7beb0eab316631a2d.jpg",
+    "static/media/chaseMtBach.jpg": "/static/media/chaseMtBach.554dd6b5bb5f0b377e47.jpg",
+    "static/media/chase.JPG": "/static/media/chase.811dbbb37ab8d3bfb07c.JPG",
+    "static/media/ripples.jpg": "/static/media/ripples.e7ba2a3a9bc76fa80ff8.jpg",
+    "static/media/msh.png": "/static/media/msh.be8ddda8e4e2ab3ea148.png",
+    "static/media/backend-img-2.jpg": "/static/media/backend-img-2.911ac3a95406acf6ed2c.jpg",
+    "static/media/chase_cat.png": "/static/media/chase_cat.c389de376757d639b472.png",
+    "static/media/chase_cropped.png": "/static/media/chase_cropped.16bbc1812e3c865b33aa.png",
+    "static/media/backend-img-1.jpg": "/static/media/backend-img-1.9f420b2cd9c104e957c7.jpg",
+    "static/media/character-1.png": "/static/media/character-1.4623a16b5dd3b8135c33.png",
+    "static/media/resume.pdf": "/static/media/resume.30bd233ecffdc2fcaeae.pdf",
+    "static/media/chase_sitting_cropped.png": "/static/media/chase_sitting_cropped.cfc5f1c7d4b0c7c2e25b.png",
+    "index.html": "/index.html",
+    "main.15d77d55.css.map": "/static/css/main.15d77d55.css.map",
+    "main.5270f538.js.map": "/static/js/main.5270f538.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15d77d55.css",
+    "static/js/main.5270f538.js"
+  ]
+}
