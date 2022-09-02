@@ -26,7 +26,6 @@ const Navbar = () => {
         <div className='mw__navbar-links_container'>
           <Menu />
         </div>
-        <div className='test'>asaf</div>
       </div>
       <div className='mw__navbar-menu'>
         {toggleMenu
