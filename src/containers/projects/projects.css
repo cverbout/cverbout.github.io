@@ -1,0 +1,25 @@
+.mw__projects {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    background-color: white;
+}
+
+.mw__projects h1 {
+    color: rgb(12, 16, 34);
+    font-weight: 700;
+    font-family: var(--font-family);
+    font-size: 48px;
+    margin: 2rem 12rem 0;
+    
+}
+
+.mw__projects-divider {
+    height: 0.4rem;
+    max-width: 3.25rem;
+    margin: 1rem auto;
+    
+    background-color: rgb(107, 103, 103);
+    opacity: 1;
+}

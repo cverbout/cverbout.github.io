@@ -1,0 +1,153 @@
+.mw__skills {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+  
+}
+
+.mw__skills-title {
+   justify-content: center;
+   align-items: center;
+   padding: 6rem 5rem 0;
+   
+}
+
+.mw__skills-divider {
+    height: 0.4rem;
+    max-width: 3.25rem;
+    margin: 1rem auto;
+    background-color: rgb(107, 103, 103);
+    opacity: 1;
+}
+
+.mw__skills-title h1 {
+    color: rgb(12, 16, 34);
+    font-weight: 700;
+    font-family: var(--font-family);
+    font-size: 48px;
+    
+    
+
+}
+
+.mw__skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 6rem 12rem 6rem;
+    /* background-color: rgb(153, 207, 247); */
+    background: url("../../assets/ripples.jpg");
+    background-size: cover;
+    background-position: 0;
+    
+    border-radius: 50px;
+    
+    
+}
+
+.mw__skills-container > div {
+    flex: 1;
+    max-width: 100%;
+    min-width: 50px;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+.mw__skills:hover .mw__skills-icon-1 {
+    position: relative;
+    animation: example var(--animation-time) var(--animation-count);
+    animation-timing-function: var(--animation-style);
+    animation-delay: 0s;   
+}
+
+.mw__skills:hover .mw__skills-icon-2 {
+    position: relative;
+    animation: example var(--animation-time) var(--animation-count);
+    animation-timing-function: var(--animation-style);
+    animation-delay: .2s;
+}
+
+.mw__skills:hover .mw__skills-icon-3 {
+    position: relative;
+    animation: example var(--animation-time) var(--animation-count);
+    animation-timing-function: var(--animation-style);
+    animation-delay: .4s;
+}
+
+.mw__skills:hover .mw__skills-icon-4 {
+    position: relative;
+    animation: example var(--animation-time) var(--animation-count);
+    animation-timing-function: var(--animation-style);
+    animation-delay: .6s;
+}
+
+.mw__skills:hover .mw__skills-icon-5 {
+    position: relative;
+    animation: example var(--animation-time) var(--animation-count);
+    animation-timing-function: var(--animation-style);
+    animation-delay: .8s;
+}
+
+.mw__skills:hover .mw__skills-icon-6 {
+    position: relative;
+    animation: example var(--animation-time) var(--animation-count);
+    animation-timing-function: var(--animation-style);
+    animation-delay: 1s;
+}
+
+.mw__skills:hover .mw__skills-icon-7 {
+    position: relative;
+    animation: example var(--animation-time) var(--animation-count);
+    animation-timing-function: var(--animation-style);
+    animation-delay: 1.2s;
+}
+
+.mw__skills:hover .mw__skills-icon-8 {
+    position: relative;
+    animation: example var(--animation-time) var(--animation-count);
+    animation-timing-function: var(--animation-style);
+    animation-delay: 1.4s;
+}
+
+.mw__skills:hover .mw__skills-icon-9 {
+    position: relative;
+    animation: example var(--animation-time) var(--animation-count);
+    animation-timing-function: var(--animation-style);
+    animation-delay: 1.6s;
+}
+
+.mw__skills:hover .mw__skills-icon-10 {
+    position: relative;
+    animation: example var(--animation-time) var(--animation-count);
+    animation-timing-function: var(--animation-style);
+    animation-delay: 1.8s;
+}
+
+.mw__skills:hover .mw__skills-icon-11 {
+    position: relative;
+    animation: example var(--animation-time) var(--animation-count);
+    animation-timing-function: var(--animation-style);
+    animation-delay: 2s;
+}
+
+
+
+
+@keyframes example {
+    0% {top: 0px;}
+    50% {top: 100px;}
+    100% {top: 0px;}
+}
+  
+
+@media screen and (max-width: 1050px) {
+    .mw__skills-container {
+        flex-wrap: wrap;
+    }
+}

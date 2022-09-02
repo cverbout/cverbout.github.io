@@ -1,0 +1,66 @@
+.mw__project {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    
+    margin:2rem 10%;
+
+
+}
+
+.mw__project-header {
+    font-family: var(--font-family);
+    text-align: center;
+    
+}
+
+.mw__project-header h2 {
+    font-family: var(--font-family);
+    color: black;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 2rem;
+}
+
+.mw__project-header h2:hover {
+    opacity: .75;
+    transition: .3s ease-in-out;
+}
+
+.mw__project-header p {
+    font-family: var(--font-family);
+    color: black;
+    padding: 0 2rem 2rem 2rem;
+    max-width: 1000px;
+    font-size: 20px;
+    
+}
+
+
+.mw__project-tools {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+
+}
+
+.mw__project-tools_list {
+    display: flex; 
+}
+.mw__project-tools_list ul {
+    
+    margin: 2rem .5rem;
+    padding: 1rem 2rem; 
+    border-radius: 10px;
+    color: white;
+    font-size: 24px;
+    background: blue;
+}
+.mw__project-tools h3 {
+    padding-top: 2rem;
+    flex-wrap: wrap;
+    color: black;
+    font-size: 36px;
+}

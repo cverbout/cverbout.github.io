@@ -1,0 +1,40 @@
+.mw__cta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 6rem;
+}
+
+.mw__cta-resume {
+    margin: 0 4rem 0 0;
+}
+
+.mw__cta-cm {
+    margin: 0 0 0 4rem;
+    
+}
+
+.mw__cta a {
+    font-family: var(--font-family);
+    font-size: 24px;
+    display:inline-block;
+    padding:0.35em 1.2em;
+    border:0.1em solid black;
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+  
+    font-weight:300;
+    color:black;
+    text-align:center;
+    transition: all 0.2s;
+
+    cursor: pointer;
+
+}
+
+.mw__cta a:hover {
+    color:white;
+    background-color:black; 
+}

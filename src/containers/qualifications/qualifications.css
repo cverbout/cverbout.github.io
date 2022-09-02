@@ -1,0 +1,86 @@
+.mw__qual {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+}
+
+.mw__qual h1 {
+    color: rgb(12, 16, 34);
+    font-weight: 700;
+    font-family: var(--font-family);
+    font-size: 48px;
+    margin: 2rem 12rem 0;
+}
+
+.mw__qual-exp, .mw__qual-edu {
+    margin: 2rem 18rem 0;
+}
+
+.mw__qual-exp h2, .mw__qual-exp h3 {
+    color: black;
+}
+
+.mw__qual-exp h3 {
+    margin-top: 1rem;
+}
+
+
+.mw__qual-edu h2 {
+    color: black;
+}
+
+
+.mw__qual h2 {
+    
+    font-weight: 700;
+    font-family: var(--font-family);
+    font-size: 36px;
+}
+
+.mw__qual h3 {
+    
+    
+    font-weight: 700;
+    font-family: var(--font-family);
+    font-size: 20px;
+
+   
+}
+
+.mw__qual p {
+    margin-top: 1rem;
+    color: rgb(12, 16, 34);
+    font-style: italic;
+    font-family: var(--font-family);
+    font-size: 16px;
+}
+
+.mw__qual-edu_uw {
+    background:linear-gradient(90deg,#4b2e83, #85754d, #b7a57a);
+    border-radius: 10px;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+.mw__qual-edu_psu {
+    background: linear-gradient(270deg, #154734 50%, white);
+    
+    border-radius: 10px;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+.mw__qual-edu_psu h3, .mw__qual-edu_psu p {
+    width: fit-content;
+    background:-webkit-linear-gradient(180deg,white 55%, #154734 45%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    -moz-text-fill-color: transparent;
+}
+
+.mw__qual-edu_uw h3, .mw__qual-edu_uw p {
+    color: white;
+}

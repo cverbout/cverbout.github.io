@@ -1,0 +1,43 @@
+.mw__gallery {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+[class*="img-"] {
+    border-radius: 20px;
+    border-style: inset;
+    margin: 5px;
+    margin-top: 5px;
+    width: auto;
+    height: auto;
+    border: none;
+}
+
+.img-front {
+    width: 200px;
+    height: 300px;
+}
+
+.img-back {
+    width: 180px;
+    height: 280px;
+}
+
+.btn {
+    border: none;
+    background: none;
+    margin: 2rem;
+    
+   
+}
+
+.btn:hover {
+    opacity: .75;
+    transition: .3s ease-in;
+    cursor:pointer
+    
+}
+      
+.svg {
+    border-radius: 100%;
+}
