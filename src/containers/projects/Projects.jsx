@@ -84,7 +84,7 @@ class Projects extends Component {
           <hr className='mw__projects-divider'></hr>
           <Project  
           name={"Snaggle"}
-          description={"benefit, enjoyment, and exploration of users. I am largely focused on becoming a software engineer and captivated by the potential future applications of AR/VR. I am motivated by my passion to be a part of an incredible process that is what I consider to be, the creation of new worlds for the benefit, enjoyment, and exploration of users.s"}
+          description={"Snaggle is a full stack web application that provides bug tracking services. The backend is a combination ASP.NET and SQL while the front-end was made with React."}
           pictures = {this.state.project1}
           tools = {this.state.tools3}
           color_style = {{color: '#2BB4D3'}}
