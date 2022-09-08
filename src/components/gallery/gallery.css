@@ -41,3 +41,75 @@
 .svg {
     border-radius: 100%;
 }
+
+@media screen and (max-width: 1320px) {
+    .img-front {
+        width: 150px;
+        height: 250px;
+    }
+    
+    .img-back {
+        width: 130px;
+        height: 230px;
+    }
+}
+
+@media screen and (max-width: 1070px) {
+    .img-front {
+        width: 120px;
+        height: 220px;
+    }
+    
+    .img-back {
+        width: 100px;
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 920px) {
+    .img-front {
+        width: 160px;
+        height: 260px;
+    }
+    
+    .img-back {
+        width: 160px;
+        height: 260px;
+    }
+}
+
+@media screen and (max-width: 745px) {
+    .img-front {
+        width: 140px;
+        height: 240px;
+    }
+    
+    .img-back {
+        width: 140px;
+        height: 240px;
+    }
+}
+
+@media screen and (max-width: 695px) {
+    .img-front {
+        width: 100px;
+        height: 200px;
+    }
+    
+    .img-back {
+        width: 100px;
+        height: 200px;
+    }
+}
+
+@media screen and (max-width: 595px) {
+    .img-front {
+        width: 80px;
+        height: 180px;
+    }
+    
+    .img-back {
+        width: 80px;
+        height: 180px;
+    }
+}
