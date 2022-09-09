@@ -36,10 +36,31 @@
     display: flex;
     list-style: none;
     justify-content: center;
-    
+    font-family: var(--font-family);
+    font-size: 14px;
 }
 
 .mw__footer-links p {
     margin-left: 1rem;
     margin-right: 1rem;
+}
+
+@media screen and (max-width: 750px) {
+    .mw__footer-links ul {
+        font-size: 12px;
+    }
+    .mw__footer-links p {
+        margin-left: .5rem;
+        margin-right: .5rem;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .mw__footer-links ul {
+        font-size: 8px;
+    }
+    .mw__footer-links p {
+        margin-left: .5rem;
+        margin-right: .5rem;
+    }
 }

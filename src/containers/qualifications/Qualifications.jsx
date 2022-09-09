@@ -21,12 +21,12 @@ const Qualifications = () => {
       <div className='mw__qual-edu'>
         <h2>Education</h2>
         <div className='mw__qual-edu_psu'>
-        <h3>Portland State University | Portland, OR | Spet. 2021 - Present | GPA: 4.0</h3>
+        <h3>Portland State University | Portland, OR | Sept. 2021 - Present | GPA: 4.0</h3>
         <p>Postbaccalaureate Computer Science Graduate Preparation</p>
         </div>
         <div className='mw__qual-edu_uw'>
         <h3>University of Washington | Seattle, WA | Sept. 2017 - June 2021 | GPA: 3.54</h3>
-        <p>B.A. Major in Geography: Data Science</p>
+        <p>B.A. in Geography: Data Science</p>
         </div>
       </div>
     </div>

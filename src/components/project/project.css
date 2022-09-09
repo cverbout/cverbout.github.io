@@ -5,7 +5,7 @@
     justify-content: center;
     
     
-    margin:2rem 10%;
+    
 
 
 }
@@ -43,11 +43,14 @@
     display: flex;
     flex-direction: column;
     text-align: left;
-
+    justify-content: center;
+    
 }
 
 .mw__project-tools_list {
     display: flex; 
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .mw__project-tools_list ul {
     
@@ -64,3 +67,19 @@
     color: black;
     font-size: 36px;
 }
+
+@media screen and (max-width: 1100px) {
+    .mw__project-tools_list ul {
+        font-size: 16px;
+        margin: 1.5rem .5rem;
+    padding: .5rem 1.5rem; 
+    }
+}
+
+
+@media screen and (max-width: 900px) {
+    .mw__project-tools_list ul {
+        font-size: 14px;
+    }
+}
+

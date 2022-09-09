@@ -3,14 +3,15 @@
     align-items: center;
     justify-content: center;
     padding-top: 6rem;
+    margin: 0 1rem;
 }
 
 .mw__cta-resume {
-    margin: 0 4rem 0 0;
+    margin-right: 4rem;
 }
 
 .mw__cta-cm {
-    margin: 0 0 0 4rem;
+    margin-left: 4rem;
     
 }
 
@@ -20,7 +21,7 @@
     display:inline-block;
     padding:0.35em 1.2em;
     border:0.1em solid black;
-    margin:0 0.3em 0.3em 0;
+    
     border-radius:0.12em;
     box-sizing: border-box;
     text-decoration:none;
@@ -37,4 +38,19 @@
 .mw__cta a:hover {
     color:white;
     background-color:black; 
+}
+
+@media screen and (max-width: 550px) {
+    .mw__cta a {
+    
+        font-size: 20px;
+    }
+    .mw__cta-resume {
+        margin-right: 2rem;
+    }
+    
+    .mw__cta-cm {
+        margin-left: 2rem;
+        
+    }
 }
