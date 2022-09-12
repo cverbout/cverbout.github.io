@@ -33,8 +33,8 @@ class Gallery extends Component {
         return (
             
             <div className='mw__gallery'>
-                <button className="btn">
-                <Icon onClick={() => {this.updatePositions('l')}}  icon="bi:arrow-left-circle-fill" style={this.props.style} width="64" height="64" />
+                <button className="btn-left">
+                <Icon className="btn-icon" onClick={() => {this.updatePositions('l')}}  icon="bi:arrow-left-circle-fill" style={this.props.style} width="64" height="64" />
                     {/* <FontAwesomeIcon icon={solid('arrow-left')} /> */}
                 </button>
                 <div className='mw__gallery-images'>
@@ -44,8 +44,8 @@ class Gallery extends Component {
                         id={image.id}
                         />)}
                    </div>
-                <button className="btn">
-                <Icon onClick={() => {this.updatePositions('r')}}  icon="bi:arrow-right-circle-fill" style={this.props.style} width="64" height="64" />
+                <button className="btn-right">
+                <Icon className="btn-icon" onClick={() => {this.updatePositions('r')}}  icon="bi:arrow-right-circle-fill" style={this.props.style} width="64" height="64" />
                     {/* <FontAwesomeIcon icon={solid('arrow-right')} /> */}
                 </button>
             </div>

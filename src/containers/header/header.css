@@ -42,6 +42,7 @@
 .mw__header-message_container {
     
     max-width: 600px;
+    width: 100%;
     margin: 2rem 0 1rem;
     display: flex;
 }
@@ -100,10 +101,47 @@
     height: 75%;
 }
 
+@media screen and (max-width: 1250px) {
+    .mw__header-text-content {
+        margin: 0 2rem 3rem;
+    }
+    .mw__header-image_container img {
+        width: 50%;
+        height: 50%;
+    }
+
+    .mw__header-message_container input {
+        font-family: var(--font-family);
+        font-size: 18px;
+        line-height: 27px;
+    }
+}
+
 @media screen and (max-width: 1050px) {
     .mw__header {
         flex-direction: column;
     }
+
+    .mw__header h1 {
+        font-size: 48px;
+        line-height: 40px;
+    }
+    .mw__header h3 {
+        font-size: 26px;
+        
+    }
+
+    .mw__header p {
+        font-size: 16px;
+        line-height: 24px;
+        max-width: 600px;
+    }
+    .mw__header-message_container input,
+    .mw__header-message_container button {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
     .mw__header-text-content {
         margin: 0 2rem 3rem;
     }
@@ -113,9 +151,32 @@
     }
 }
 
-@media screen and (max-width: 650px) {
+
+@media screen and (max-width: 700px) {
+    
+    .mw__header h1 {
+        font-size: 40px;
+    }
+    .mw__header h3 {
+        font-size: 24px;
+    }
+
+    .mw__header p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .mw__header-message_container input,
+    .mw__header-message_container button {
+        font-size: 14px;
+        line-height: 20px;
+    }
+}
+@media screen and (max-width: 900px) {
     .mw__header {
         width: 100%;
+    }
+    .mw__header-text-content {
+        margin-top: 132px;
     }
     .mw__header h1 {
         font-size: 48px;
@@ -143,25 +204,6 @@
         align-items: center;
        
         
-    }
-    
-}
-
-@media screen and (max-width: 490px) {
-    .mw__header h1 {
-        font-size: 36px;
-        line-height: 48px;
-    }
-
-    .mw__header p {
-        font-size: 14px;
-        line-height: 24px;
-    }
-
-    .mw__header-message_container input,
-    .mw__header-message_container button {
-        font-size: 14px;
-        line-height: 16px;
     }
     
 }

@@ -8,7 +8,6 @@ class Project extends Component {
     constructor(props)
     {
         super(props);
-        
     }
      
     render() { 

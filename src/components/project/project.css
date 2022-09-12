@@ -72,7 +72,15 @@
     .mw__project-tools_list ul {
         font-size: 16px;
         margin: 1.5rem .5rem;
-    padding: .5rem 1.5rem; 
+        padding: .5rem 1.5rem; 
+    }
+
+    .mw__project-header h2 {
+        font-size: 34px;
+    }
+    .mw__project-header p {
+        font-size: 16px;
+        max-width: 800px;
     }
 }
 
@@ -81,5 +89,6 @@
     .mw__project-tools_list ul {
         font-size: 14px;
     }
+
 }
 

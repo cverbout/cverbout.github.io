@@ -23,15 +23,13 @@
     height: 280px;
 }
 
-.btn {
+.btn-left, .btn-right {
     border: none;
     background: none;
     margin: 2rem;
-    
-   
 }
 
-.btn:hover {
+.btn-left:hover, .btn-right:hover {
     opacity: .75;
     transition: .3s ease-in;
     cursor:pointer
@@ -64,52 +62,75 @@
         width: 100px;
         height: 200px;
     }
+
+    .btn-icon {
+        height: 48px;
+    }
 }
 
 @media screen and (max-width: 920px) {
     .img-front {
-        width: 160px;
+        width: 120px;
+        height: 220px;
+    }
+    
+    .img-back {
+        width: 120px;
+        height: 220px;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .img-front {
+        width: 170px;
         height: 260px;
     }
     
     .img-back {
-        width: 160px;
+        width: 170px;
         height: 260px;
     }
 }
 
-@media screen and (max-width: 745px) {
+@media screen and (max-width: 615px) {
     .img-front {
-        width: 140px;
-        height: 240px;
+        width: 150px;
+        height: 220px;
     }
     
     .img-back {
-        width: 140px;
-        height: 240px;
+        width: 150px;
+        height: 220px;
+    }
+    .btn-right {
+        margin-right: 1rem;
+        margin-left: 0;
+    }
+    .btn-left {
+        margin-right: 0;
+        margin-left: 1rem;
     }
 }
 
-@media screen and (max-width: 695px) {
+@media screen and (max-width: 515px) {
     .img-front {
-        width: 100px;
-        height: 200px;
-    }
-    
-    .img-back {
-        width: 100px;
-        height: 200px;
-    }
-}
-
-@media screen and (max-width: 595px) {
-    .img-front {
-        width: 80px;
+        width: 120px;
         height: 180px;
     }
     
     .img-back {
-        width: 80px;
+        width: 120px;
         height: 180px;
+    }
+}
+@media screen and (max-width: 420px) {
+    .img-front {
+        width: 90px;
+        height: 150px;
+    }
+    
+    .img-back {
+        width: 90px;
+        height: 150px;
     }
 }

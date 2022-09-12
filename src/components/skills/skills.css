@@ -2,7 +2,6 @@
     display: flex;
     flex-direction: column;
     background-color: rgb(255, 255, 255);
-  
 }
 
 .mw__skills-title {
@@ -32,10 +31,10 @@
 
 .mw__skills-container {
     display: flex;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     align-items: center;
     justify-content: center;
-    margin: 6rem 12rem 6rem;
+    margin: 6rem 6rem 6rem;
     /* background-color: rgb(153, 207, 247); */
     background: url("../../assets/ripples.jpg");
     background-size: cover;
@@ -49,7 +48,7 @@
 .mw__skills-container > div {
     flex: 1;
     max-width: 100%;
-    min-width: 50px;
+    min-width: 30px;
     margin: 1rem;
     display: flex;
     justify-content: center;
@@ -146,8 +145,53 @@
 }
   
 
-@media screen and (max-width: 1050px) {
-    .mw__skills-container {
+@media screen and (max-width: 1000px) {
+    /* .mw__skills-container {
         flex-wrap: wrap;
+    } */
+    /* .mw__skills-icon-1, .mw__skills-icon-2, .mw__skills-icon-3, .mw__skills-icon-4, .mw__skills-icon-5, .mw__skills-icon-6 {
+        height: 40px;
+        width: 40px;
+    } */
+
+    .mw__skills-container > div {
+        
+        margin: 1rem .5rem;
+        
     }
+    .mw__skills-container {
+        margin: 6rem 1rem 3rem;
+        
+        
+    }
+}
+
+@media screen and (max-width: 700px) {
+
+    .mw__skills-container > div {
+        
+        margin: .5rem .5rem;
+        min-width: 20px;
+        max-height: 55px;
+        
+    }
+    .mw__skills-container {
+        margin: 6rem 1rem 3rem;
+        
+        
+    }
+}
+@media screen and (max-width: 450px) {
+
+    .mw__skills-container > div {
+        
+        margin: .5rem .5rem;
+        min-width: 15px;
+        max-height: 25px;
+        
+    }
+    .mw__skills-container {
+        margin: 3rem 1rem 3rem; 
+    }
+
 }

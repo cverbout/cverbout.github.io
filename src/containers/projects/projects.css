@@ -23,3 +23,22 @@
     background-color: rgb(107, 103, 103);
     opacity: 1;
 }
+
+@media screen and (max-width: 1350px) {
+    .mw__projects h1 {
+       margin-left: 6rem;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .mw__projects h1 {
+       text-align: center;
+       margin-right: 6rem;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .mw__projects h1 {
+       font-size: 36px;
+    }
+}

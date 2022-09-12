@@ -59,7 +59,6 @@ class Projects extends Component {
         <div className='mw__projects' id='prj'>
           <div>
             <h1>Projects</h1>
-            
           </div>
           <div>
           <Project  
