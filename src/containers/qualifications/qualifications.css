@@ -1,7 +1,6 @@
 .mw__qual {
     display: flex;
     flex-direction: column;
-
     justify-content: center;
 }
 
@@ -10,7 +9,7 @@
     font-weight: 700;
     font-family: var(--font-family);
     font-size: 48px;
-    margin: 2rem 12rem 0;
+    margin: 6rem 12rem 0;
 }
 
 .mw__qual-exp, .mw__qual-edu {

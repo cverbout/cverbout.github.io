@@ -45,6 +45,7 @@
     width: 100%;
     margin: 2rem 0 1rem;
     display: flex;
+    
 }
 
 .mw__header-message_container input {
@@ -62,6 +63,7 @@
     color: #fff;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+    
 }
 
 .mw__header-message_container button {
@@ -99,6 +101,31 @@
 .mw__header-image_container img {
     width: 75%;
     height: 75%;
+}
+
+.launcher {
+   position: absolute;
+    overflow: hidden;
+    width: 90%;
+    height: 100%;
+    margin-top:50px;
+    
+}
+.rocket {  
+    font-family: var(--font-family);
+    font-size: 20px;
+    color: #fff; 
+    position:absolute; 
+    margin-top: .5rem;
+    margin-left: 1rem;
+    animation: blastOff 4s 1;
+   
+}
+
+@keyframes blastOff {
+    from { transform : translateX(0) }
+    20%  { transform: translateY(400%) }
+    to {transform : translate(25000%, 400%)}
 }
 
 @media screen and (max-width: 1250px) {

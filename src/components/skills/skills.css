@@ -34,7 +34,7 @@
     /* flex-wrap: wrap; */
     align-items: center;
     justify-content: center;
-    margin: 6rem 6rem 6rem;
+    margin: 6rem 6rem 3rem;
     /* background-color: rgb(153, 207, 247); */
     background: url("../../assets/ripples.jpg");
     background-size: cover;
