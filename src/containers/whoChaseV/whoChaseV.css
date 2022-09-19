@@ -1,9 +1,9 @@
 .mw__wcv {
     display: flex;
-    background-image: url('../../assets/msh.png');
+    background-image: url('../../assets/topMtStHelens-1.jpg');
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover;
+    background-size:cover;
     align-items: center;
     justify-content: center;
 }
@@ -41,9 +41,6 @@
     -moz-text-fill-color: transparent;
     font-family: var(--font-family);
     font-size: 48px;
-    
-    
-    
 }
 
 .mw__wcv-content {

@@ -25,7 +25,7 @@ const WhoChaseV = () => {
                 I am largely focused on becoming a well-rounded software engineer and captivated by the potential applications of AR/VR. My motivations derive from my passion to create new realities for the benefit, enjoyment, and exploration of others. 
                 <br/>
                 <br/>
-                *This grainy view behind me is from the "Peak" of Mt. St Helens in WA!
+                *This breathtaking view behind me is from the "peak" of Mt. St Helens in WA!
               </p>
             </div>
           </div>

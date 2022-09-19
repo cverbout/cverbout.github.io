@@ -9,20 +9,36 @@ import Enemy2 from '../../assets/enemy-2.png';
 import Creature2 from '../../assets/creature-2.png';
 import Backend1 from '../../assets/backend-img-1.jpg';
 import Backend2 from '../../assets/backend-img-2.jpg';
+import HomepageSmall from '../../assets/webpage_home_small.jpg';
+import HomepageSmallMenu from '../../assets/webpage_home_small_menu.jpg';
+import Qual from '../../assets/webpage_qual.jpg';
+import MamFoot from '../../assets/webpage_mam_footer.jpg';
+import Logo from '../../assets/logo.png';
+import LogoA from '../../assets/logoA.png';
 
 
 class Projects extends Component {
 
   state = { 
     project1: [
-        {id: 1, url: Backend1},
-        {id: 2, url: Character1},
-        {id: 3, url: Enemy1},
-        {id: 4, url: Creature1},
-        {id: 5, url: Character2},
-        {id: 6, url: Enemy2},
+        {id: 1, url: HomepageSmall},
+        {id: 2, url: HomepageSmallMenu},
+        {id: 3, url: Logo},
+        {id: 4, url: LogoA},
+        {id: 5, url: Qual},
+        {id: 6, url: MamFoot},
         {id: 7, url: Creature2}
     ],
+
+    project2: [
+      {id: 1, url: Backend1},
+      {id: 2, url: Character1},
+      {id: 3, url: Enemy1},
+      {id: 4, url: Creature1},
+      {id: 5, url: Character2},
+      {id: 6, url: Enemy2},
+      {id: 7, url: Creature2}
+  ],
 
     tools1: [
       {Name: "JSX"},
