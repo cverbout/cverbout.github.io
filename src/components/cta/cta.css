@@ -12,45 +12,39 @@
 
 .mw__cta-cm {
     margin-left: 4rem;
-    
 }
 
 .mw__cta a {
     font-family: var(--font-family);
     font-size: 24px;
-    display:inline-block;
-    padding:0.35em 1.2em;
-    border:0.1em solid black;
-    
-    border-radius:0.12em;
+    display: inline-block;
+    padding: 0.35em 1.2em;
+    border: 0.1em solid black;
+    border-radius: 0.12em;
     box-sizing: border-box;
-    text-decoration:none;
-  
-    font-weight:300;
-    color:black;
-    text-align:center;
+    text-decoration: none;
+    font-weight: 300;
+    color: black;
+    text-align: center;
     transition: all 0.2s;
-
     cursor: pointer;
-
 }
 
 .mw__cta a:hover {
-    color:white;
-    background-color:black; 
+    color: white;
+    background-color: black;
 }
 
 @media screen and (max-width: 550px) {
     .mw__cta a {
-    
         font-size: 20px;
     }
+
     .mw__cta-resume {
         margin-right: 2rem;
     }
-    
+
     .mw__cta-cm {
         margin-left: 2rem;
-        
     }
 }

@@ -2,8 +2,6 @@
     display: flex;
     background-color: rgb(0, 0, 48);
     justify-content: center;
-    
-    
 }
 
 .mw__footer-content {
@@ -49,6 +47,7 @@
     .mw__footer-links ul {
         font-size: 12px;
     }
+
     .mw__footer-links p {
         margin-left: .5rem;
         margin-right: .5rem;
@@ -59,6 +58,7 @@
     .mw__footer-links ul {
         font-size: 8px;
     }
+
     .mw__footer-links p {
         margin-left: .5rem;
         margin-right: .5rem;

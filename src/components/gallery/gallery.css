@@ -3,6 +3,7 @@
     justify-content: center;
     align-items: center;
 }
+
 [class*="img-"] {
     border-radius: 20px;
     border-style: inset;
@@ -38,10 +39,9 @@
 .btn-left:hover, .btn-right:hover {
     opacity: .75;
     transition: .3s ease-in;
-    cursor:pointer
-    
+    cursor: pointer
 }
-      
+
 .svg {
     border-radius: 100%;
 }
@@ -51,7 +51,7 @@
         width: 150px;
         height: 250px;
     }
-    
+
     .img-back {
         width: 130px;
         height: 230px;
@@ -63,7 +63,7 @@
         width: 120px;
         height: 220px;
     }
-    
+
     .img-back {
         width: 100px;
         height: 200px;
@@ -79,7 +79,7 @@
         width: 120px;
         height: 220px;
     }
-    
+
     .img-back {
         width: 120px;
         height: 220px;
@@ -91,7 +91,7 @@
         width: 170px;
         height: 260px;
     }
-    
+
     .img-back {
         width: 170px;
         height: 260px;
@@ -100,7 +100,7 @@
     .btn-left {
         margin: 2rem 2rem 2rem 2rem;
     }
-    
+
     .btn-right {
         margin: 2rem 2rem 2rem 2rem;
     }
@@ -111,15 +111,17 @@
         width: 150px;
         height: 220px;
     }
-    
+
     .img-back {
         width: 150px;
         height: 220px;
     }
+
     .btn-right {
         margin-right: 1rem;
         margin-left: 0;
     }
+
     .btn-left {
         margin-right: 0;
         margin-left: 1rem;
@@ -131,18 +133,19 @@
         width: 120px;
         height: 180px;
     }
-    
+
     .img-back {
         width: 120px;
         height: 180px;
     }
 }
+
 @media screen and (max-width: 420px) {
     .img-front {
         width: 90px;
         height: 150px;
     }
-    
+
     .img-back {
         width: 90px;
         height: 150px;

@@ -3,16 +3,15 @@
     flex-direction: row;
     width: 50%;
     height: 75%;
-    
 }
-.mw__header-text-content{
+
+.mw__header-text-content {
     flex: 1;
     display: flex;
     justify-content: center;
     align-items: flex-start;
     flex-direction: column;
     margin: 5rem;
-    
 }
 
 .mw__header-text-content h1 {
@@ -21,7 +20,6 @@
     font-size: 62px;
     line-height: 75px;
     letter-spacing: -0.04em;
-
 }
 
 .mw__header-text-content h3 {
@@ -35,7 +33,6 @@
 .mw__header-text-content h5 {
     font-family: var(--font-family);
     color: rgb(204, 204, 204);
-    
 }
 
 .mw__header-text-content p {
@@ -46,12 +43,10 @@
 }
 
 .mw__header-message_container {
-    
     max-width: 600px;
     width: 100%;
     margin: 2rem 0 1rem;
     display: flex;
-    
 }
 
 .mw__header-message_container input {
@@ -61,7 +56,6 @@
     background: var(--color-bg);
     border: 2px solid var(--color-bg);
     padding: 0 1rem;
-   
     font-family: var(--font-family);
     font-size: 20px;
     line-height: 27px;
@@ -69,7 +63,6 @@
     color: #fff;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-    
 }
 
 .mw__header-message_container button {
@@ -79,7 +72,6 @@
     font-weight: bold;
     color: #fff;
     background: #d37bccb7;
-
     cursor: pointer;
     outline: none;
     font-size: 20px;
@@ -88,12 +80,12 @@
     border: none;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-
     transition: 0.3s;
 }
+
 .mw__header-message_container button:hover {
     opacity: .5;
-    color:#d37bccb7;
+    color: #d37bccb7;
     background: white;
 }
 
@@ -110,33 +102,42 @@
 }
 
 .launcher {
-   position: absolute;
+    position: absolute;
     overflow: hidden;
     width: 90%;
     height: 100%;
-    margin-top:50px;
-    
+    margin-top: 50px;
 }
-.rocket {  
+
+.rocket {
     font-family: var(--font-family);
     font-size: 20px;
-    color: #fff; 
-    position:absolute; 
+    color: #fff;
+    position: absolute;
     margin-top: .5rem;
     margin-left: 1rem;
-    animation: blastOff 4s 1;  
+    animation: blastOff 4s 1;
 }
 
 @keyframes blastOff {
-    from { transform : translateX(0) }
-    20%  { transform: translateY(400%) }
-    to {transform : translate(25000%, 400%)}
+    from {
+        transform: translateX(0)
+    }
+
+    20% {
+        transform: translateY(400%)
+    }
+
+    to {
+        transform: translate(25000%, 400%)
+    }
 }
 
 @media screen and (max-width: 1250px) {
     .mw__header-text-content {
         margin: 0 2rem 3rem;
     }
+
     .mw__header-image_container img {
         width: 50%;
         height: 50%;
@@ -158,9 +159,9 @@
         font-size: 48px;
         line-height: 40px;
     }
+
     .mw__header h3 {
         font-size: 26px;
-        
     }
 
     .mw__header p {
@@ -168,6 +169,7 @@
         line-height: 24px;
         max-width: 600px;
     }
+
     .mw__header-message_container input,
     .mw__header-message_container button {
         font-size: 16px;
@@ -177,18 +179,18 @@
     .mw__header-text-content {
         margin: 0 2rem 3rem;
     }
+
     .mw__header-image_container img {
         width: 50%;
         height: 50%;
     }
 }
 
-
 @media screen and (max-width: 700px) {
-    
     .mw__header h1 {
         font-size: 40px;
     }
+
     .mw__header h3 {
         font-size: 24px;
     }
@@ -197,19 +199,23 @@
         font-size: 16px;
         line-height: 24px;
     }
+
     .mw__header-message_container input,
     .mw__header-message_container button {
         font-size: 14px;
         line-height: 20px;
     }
 }
+
 @media screen and (max-width: 900px) {
     .mw__header {
         width: 100%;
     }
+
     .mw__header-text-content {
         margin-top: 132px;
     }
+
     .mw__header h1 {
         font-size: 48px;
         line-height: 60px;
@@ -225,17 +231,13 @@
         font-size: 16px;
         line-height: 24px;
     }
+
     .mw__header-image_container img {
         width: 75%;
         height: 75%;
     }
 
-    .mw__header-text-content{
-        
-      
+    .mw__header-text-content {
         align-items: center;
-       
-        
     }
-    
 }
