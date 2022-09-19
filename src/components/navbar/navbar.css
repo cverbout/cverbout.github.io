@@ -57,6 +57,7 @@
     margin-left: 1rem;
     display: none;
     position: relative;
+    margin-right: 1rem;
 }
 
 .mw__navbar-menu svg {
@@ -71,7 +72,7 @@
     text-align: end;
     background: var(--color-footer);
     padding: 2rem;
-    position: absolute;
+    position: fixed;
     top: 40px;
     right:0;
     margin-top: 1rem;
@@ -99,9 +100,9 @@
 
 @media screen and (max-width: 700px) {
     .mw__navbar {
-        padding: 2rem 0rem;
+        /* padding: 2rem 0rem;
         padding-right: 2rem;
-        
+         */
         
     }
     .mw__navbar-links_logo img {
@@ -117,7 +118,7 @@
     }
 
     .mw__navbar-menu_container {
-        top: 20px;
+        top: 80px;
     }
     .mw__navbar-links_logo img {
         margin-left: 0rem;

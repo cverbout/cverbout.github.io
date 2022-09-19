@@ -13,16 +13,14 @@ const Header = () => {
  
   const [message, setMessage] = useState('');
   const [tMessage, tSetMessage] = useState('');
-  const[isClicked, setIsClicked] = useState(false);
+ 
 
   const handleChange = event => {
     setMessage(event.target.value);
     tSetMessage(event.target.value);
   };
   
-  const toggleIsClicked = () => {
-    setIsClicked(current => !current);
-  }
+
 
   const handleClick = () => {
     // 👇️ clear input value
@@ -34,7 +32,7 @@ const Header = () => {
       start();
     }
     
-    toggleIsClicked();
+   
     setMessage('');
     console.log(seconds);
   };
@@ -75,10 +73,10 @@ const Header = () => {
           
           <button onClick={handleClick}>Blast Off</button>
         </div>
+        <h5>
+        <a href="https://www.freepik.com/free-vector/magic-portal-stone-frame-desert-landscape-night_12900156.htm#query=magic%20portal&position=32&from_view=keyword">*Thank you to upklyak for this awesome background*</a>
+        </h5>
       </div> 
-      {/* <div className='mw__header-image_container'>
-          <img className='mw__header-image' src={chase_cropped} />
-        </div> */}
     </div>
   )
 }

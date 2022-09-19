@@ -19,10 +19,13 @@ const WhoChaseV = () => {
             </div>
             <div className='mw__wcv-bio_container'>
               <p>
-                I am largely focused on becoming a software engineer and captivated 
-                by the potential future applications of AR/VR. I am motivated by my passion to be a part of an incredible process that is what I 
-                consider to be, the creation of new worlds for the benefit, enjoyment, and exploration of users. I am largely focused on becoming a software engineer and captivated 
-                by the potential future applications of AR/VR. I am motivate
+                Hi! My name is Chase Verbout. Currently, I am a graduate student at Portland State University pursuing a Master's Degree in Computer Science. I am also a former Husky, graduating from the University of Washington in 2021 with a degree in Geography: Data Science.
+                <br/>
+                <br/>
+                I am largely focused on becoming a well-rounded software engineer and captivated by the potential applications of AR/VR. My motivations derive from my passion to create new realities for the benefit, enjoyment, and exploration of others. 
+                <br/>
+                <br/>
+                *This grainy view behind me is from the "Peak" of Mt. St Helens in WA!
               </p>
             </div>
           </div>

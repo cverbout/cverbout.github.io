@@ -86,7 +86,7 @@
 
 @media screen and (max-width: 1050px) {
     .mw__qual h1 {
-        margin: 0rem 4rem;
+        margin: 4rem 4rem 0;
         text-align: center;
     }
     .mw__qual-exp, .mw__qual-edu {

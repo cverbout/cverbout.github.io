@@ -12,7 +12,7 @@ const Qualifications = () => {
         <h3>Open Source Project Management Intern | King County Metro | Seattle, WA | May 2021 - September 2021</h3>
         <p>This internship was an extension of my work at UW for CSE 495. Led by Anat Caspi, the Director of the UW Taskar Center for Accessible 
           Technology (TCAT), I performed tertiary work that assisted with their OpenSideWalks (OSW) program. Through this, I was introduced to 
-          King County Metro (KCM) and their CommonPaths program that operates with the same data and structures as OSW</p>
+          King County Metro (KCM) and their CommonPaths program that operates with the same data and structures as OSW.</p>
         <h3>Volunteer | PSU Computer Action Team | Portland, OR | September 2021 - Present</h3>
         <p>The Computer Action Team at Portland State University is the De facto IT department for the Maseeh College of Engineering and Computer 
           Science.

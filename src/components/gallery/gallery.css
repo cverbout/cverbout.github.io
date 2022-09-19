@@ -23,10 +23,16 @@
     height: 280px;
 }
 
-.btn-left, .btn-right {
+.btn-left {
     border: none;
     background: none;
-    margin: 2rem;
+    margin: 2rem 2rem 2rem 0;
+}
+
+.btn-right {
+    border: none;
+    background: none;
+    margin: 2rem 0 2rem 2rem;
 }
 
 .btn-left:hover, .btn-right:hover {
@@ -89,6 +95,14 @@
     .img-back {
         width: 170px;
         height: 260px;
+    }
+
+    .btn-left {
+        margin: 2rem 2rem 2rem 2rem;
+    }
+    
+    .btn-right {
+        margin: 2rem 2rem 2rem 2rem;
     }
 }
 

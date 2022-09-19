@@ -32,6 +32,12 @@
     letter-spacing: -0.04em;
 }
 
+.mw__header-text-content h5 {
+    font-family: var(--font-family);
+    color: rgb(204, 204, 204);
+    
+}
+
 .mw__header-text-content p {
     font-family: var(--font-family);
     color: rgb(204, 204, 204);
@@ -118,8 +124,7 @@
     position:absolute; 
     margin-top: .5rem;
     margin-left: 1rem;
-    animation: blastOff 4s 1;
-   
+    animation: blastOff 4s 1;  
 }
 
 @keyframes blastOff {

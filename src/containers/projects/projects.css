@@ -40,5 +40,6 @@
 @media screen and (max-width: 600px) {
     .mw__projects h1 {
        font-size: 36px;
+       margin: 3rem 0rem 0;
     }
 }
