@@ -15,6 +15,12 @@ import Creature1 from '../../assets/creature-druppy.png';
 import Creature2 from '../../assets/creature-druppyB.png';
 import Creature3 from '../../assets/creature-druppyG.png';
 import Creature4 from '../../assets/creature-druppyR.png';
+import RH_1 from '../../assets/RH_1.jpg';
+import RH_2 from '../../assets/RH_2.jpg';
+import RH_3 from '../../assets/RH_3.jpg';
+import RH_4 from '../../assets/RH_4.jpg';
+import RH_5 from '../../assets/RH_5.jpg';
+import RH_6 from '../../assets/RH_6.jpg';
 
 import HomepageSmall from '../../assets/webpage_home_small.jpg';
 import HomepageSmallMenu from '../../assets/webpage_home_small_menu.jpg';
@@ -40,19 +46,28 @@ class Projects extends Component {
     ],
 
     project2: [
-      {id: 1, url: Character1},
-      {id: 2, url: Character2},
-      {id: 3, url: Enemy1},
-      {id: 4, url: Enemy2},
-      {id: 5, url: Enemy3},
-      {id: 6, url: Enemy4},
-      {id: 7, url: Enemy5},
-      {id: 8, url: Enemy6},
-      {id: 9, url: Enemy7},
-      {id: 10, url: Creature1},
-      {id: 10, url: Creature2},
-      {id: 10, url: Creature3},
-      {id: 10, url: Creature4}
+      {id: 1, url: RH_1},
+      {id: 2, url: RH_2},
+      {id: 3, url: RH_3},
+      {id: 4, url: RH_4},
+      {id: 5, url: RH_5},
+      {id: 6, url: RH_6},
+      {id: 7, url: Character1},
+      {id: 8, url: Character2},
+      {id: 9, url: Enemy1},
+      {id: 10, url: Enemy2},
+      {id: 11, url: Enemy3},
+      {id: 12, url: Enemy4},
+      {id: 13, url: Enemy5},
+      {id: 14, url: Enemy6},
+      {id: 15, url: Enemy7},
+      {id: 16, url: Creature1},
+      {id: 17, url: Creature2},
+      {id: 18, url: Creature3},
+      {id: 19, url: Creature4},
+      
+      
+
   ],
 
   project3: [

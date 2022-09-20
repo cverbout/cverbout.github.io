@@ -59,9 +59,9 @@ class Gallery extends Component {
         for (let i = 0; i < images.length; ++i)
         {
             images[i] = {...this.state.images[i]};
-            if (direction === 'l')
+            if (direction === 'r')
                 images[i].pictureNum = images[i].pictureNum < galleryLen - 1 ? images[i].pictureNum + 1 : 0;
-            else if (direction === 'r')
+            else if (direction === 'l')
                 images[i].pictureNum = images[i].pictureNum > 0 ? images[i].pictureNum - 1 : galleryLen - 1;
                 
             images[i].url = this.props.pictures[images[i].pictureNum].url;
