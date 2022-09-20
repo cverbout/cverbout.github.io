@@ -1,28 +1,39 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2c880c7.css",
-    "main.js": "/static/js/main.b7caabdc.js",
+    "main.css": "/static/css/main.5d0b541a.css",
+    "main.js": "/static/js/main.abd841f7.js",
     "static/media/france.JPG": "/static/media/france.9d3e62b7db0dd09e4362.JPG",
     "static/media/icebar.jpg": "/static/media/icebar.3f2476f2389a64b00c87.jpg",
     "static/media/portal.jpg": "/static/media/portal.a500a1ae8a93d795ce88.jpg",
+    "static/media/topMtStHelens-1.jpg": "/static/media/topMtStHelens-1.9ef4d2f014953fe2e9fc.jpg",
     "static/media/blazers.jpg": "/static/media/blazers.7dc7beb0eab316631a2d.jpg",
     "static/media/chaseMtBach.jpg": "/static/media/chaseMtBach.554dd6b5bb5f0b377e47.jpg",
     "static/media/chase.JPG": "/static/media/chase.811dbbb37ab8d3bfb07c.JPG",
     "static/media/ripples.jpg": "/static/media/ripples.e7ba2a3a9bc76fa80ff8.jpg",
-    "static/media/msh.png": "/static/media/msh.be8ddda8e4e2ab3ea148.png",
     "static/media/backend-img-2.jpg": "/static/media/backend-img-2.911ac3a95406acf6ed2c.jpg",
     "static/media/chase_cat.png": "/static/media/chase_cat.c389de376757d639b472.png",
     "static/media/chase_cropped.png": "/static/media/chase_cropped.16bbc1812e3c865b33aa.png",
     "static/media/backend-img-1.jpg": "/static/media/backend-img-1.9f420b2cd9c104e957c7.jpg",
     "static/media/character-1.png": "/static/media/character-1.4623a16b5dd3b8135c33.png",
+    "static/media/RH_5.jpg": "/static/media/RH_5.ff930d271340256a062a.jpg",
+    "static/media/RH_1.jpg": "/static/media/RH_1.72a7429be3c4a2c36414.jpg",
+    "static/media/RH_3.jpg": "/static/media/RH_3.33f473899a76bde3e855.jpg",
+    "static/media/RH_4.jpg": "/static/media/RH_4.c4def205abf7fecb0fc1.jpg",
+    "static/media/RH_2.jpg": "/static/media/RH_2.d4af9d0961e92b32a6df.jpg",
     "static/media/resume.pdf": "/static/media/resume.30bd233ecffdc2fcaeae.pdf",
+    "static/media/RH_6.jpg": "/static/media/RH_6.f7e2f27816da0dbc1173.jpg",
+    "static/media/webpage_qual.jpg": "/static/media/webpage_qual.b409647c5b072fed714c.jpg",
+    "static/media/webpage_mam_footer.jpg": "/static/media/webpage_mam_footer.d2b4e5101d8dda47d0eb.jpg",
     "static/media/chase_sitting_cropped.png": "/static/media/chase_sitting_cropped.cfc5f1c7d4b0c7c2e25b.png",
+    "static/media/webpage_home_small.jpg": "/static/media/webpage_home_small.be540f6842a901b7c57e.jpg",
+    "static/media/webpage_home_small_menu.jpg": "/static/media/webpage_home_small_menu.4872abe08aac3e2b2b55.jpg",
+    "static/media/WIP.png": "/static/media/WIP.fc316a7c99dc4d9c8fab.png",
     "index.html": "/index.html",
-    "main.c2c880c7.css.map": "/static/css/main.c2c880c7.css.map",
-    "main.b7caabdc.js.map": "/static/js/main.b7caabdc.js.map"
+    "main.5d0b541a.css.map": "/static/css/main.5d0b541a.css.map",
+    "main.abd841f7.js.map": "/static/js/main.abd841f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2c880c7.css",
-    "static/js/main.b7caabdc.js"
+    "static/css/main.5d0b541a.css",
+    "static/js/main.abd841f7.js"
   ]
 }
