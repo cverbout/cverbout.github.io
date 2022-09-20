@@ -74,7 +74,7 @@ const Header = () => {
           <button onClick={handleClick}>Blast Off</button>
         </div>
         <h5>
-        <a href="https://www.freepik.com/free-vector/magic-portal-stone-frame-desert-landscape-night_12900156.htm#query=magic%20portal&position=32&from_view=keyword">*Thank you to upklyak for this awesome background*</a>
+        <a href="https://www.freepik.com/free-vector/magic-portal-stone-frame-desert-landscape-night_12900156.htm#query=magic%20portal&position=32&from_view=keyword" target="_blank">*Thank you to upklyak for this awesome background*</a>
         </h5>
       </div> 
     </div>
