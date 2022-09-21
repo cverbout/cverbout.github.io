@@ -9,9 +9,7 @@ const WhoChaseV = () => {
   return (
     <div className='mw__wcv' id='wcv'>
       <div className='mw__wcv-content'>
-        <div className='mw__wcv-img_container'>
-          <img src={chase_cat}/>
-        </div>
+        
         <div className='mw__wcv-text'>
           <div className='mw__wcv-text_border'>
             <div className='mw__wcv-title'>
@@ -29,6 +27,9 @@ const WhoChaseV = () => {
               </p>
             </div>
           </div>
+        </div>
+        <div className='mw__wcv-img_container'>
+          <img src={chase_cat}/>
         </div>
       </div>
     </div>
